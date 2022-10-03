@@ -1,0 +1,18 @@
+PODS:
+  - Mixpanel-swift (4.0.2):
+    - Mixpanel-swift/Complete (= 4.0.2)
+  - Mixpanel-swift/Complete (4.0.2)
+
+DEPENDENCIES:
+  - Mixpanel-swift (= 4.0.2)
+
+SPEC REPOS:
+  trunk:
+    - Mixpanel-swift
+
+SPEC CHECKSUMS:
+  Mixpanel-swift: 91fc28834402720682f4cce760e95571fbb388c3
+
+PODFILE CHECKSUM: 934fc48762d67659eb8831a0769cc28506f8a8fc
+
+COCOAPODS: 1.11.3
